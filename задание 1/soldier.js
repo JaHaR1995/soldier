@@ -44,3 +44,6 @@ hurt:() =>{
 
 }
 soldier.hurt()
+
+
+
